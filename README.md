@@ -1,5 +1,9 @@
 # llamanet gradio demo
 
+A localized version of a basic OpenAI Gradio Chat app, powered by [llamanet](https://github.com/pinokiocomputer/llamanet)
+
+Watch the video to see what it looks like when running:
+
 [![video.png](video.png)](https://www.youtube.com/watch?v=PN5cEi7GqAE)
 
 ## Install
