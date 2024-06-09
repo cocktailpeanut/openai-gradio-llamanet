@@ -1,5 +1,7 @@
 # llamanet gradio demo
 
+[![video.png](video.png)](https://www.youtube.com/watch?v=PN5cEi7GqAE)
+
 ## Install
 
 ### 1. Activate venv
